@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="MainForm.cs" />
+  </Folder>
+  <Project Path="CompressionClient.csproj" />
+</Solution>

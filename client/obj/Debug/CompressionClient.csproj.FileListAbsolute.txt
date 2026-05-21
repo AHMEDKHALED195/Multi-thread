@@ -1,0 +1,9 @@
+D:\projects\CompressionClient\bin\Debug\CompressionClient.exe.config
+D:\projects\CompressionClient\bin\Debug\CompressionClient.exe
+D:\projects\CompressionClient\bin\Debug\CompressionClient.pdb
+D:\projects\CompressionClient\obj\Debug\CompressionClient.csproj.AssemblyReference.cache
+D:\projects\CompressionClient\obj\Debug\CompressionClient.Properties.Resources.resources
+D:\projects\CompressionClient\obj\Debug\CompressionClient.csproj.GenerateResource.cache
+D:\projects\CompressionClient\obj\Debug\CompressionClient.csproj.CoreCompileInputs.cache
+D:\projects\CompressionClient\obj\Debug\CompressionClient.exe
+D:\projects\CompressionClient\obj\Debug\CompressionClient.pdb

@@ -1,0 +1,14 @@
+D:\projects\CompressionServer\obj\Debug\net10.0\CompressionServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CompressionServer\obj\Debug\net10.0\CompressionServer.AssemblyInfoInputs.cache
+D:\projects\CompressionServer\obj\Debug\net10.0\CompressionServer.AssemblyInfo.cs
+D:\projects\CompressionServer\obj\Debug\net10.0\CompressionServer.csproj.CoreCompileInputs.cache
+D:\projects\CompressionServer\bin\Debug\net10.0\CompressionServer.exe
+D:\projects\CompressionServer\bin\Debug\net10.0\CompressionServer.deps.json
+D:\projects\CompressionServer\bin\Debug\net10.0\CompressionServer.runtimeconfig.json
+D:\projects\CompressionServer\bin\Debug\net10.0\CompressionServer.dll
+D:\projects\CompressionServer\bin\Debug\net10.0\CompressionServer.pdb
+D:\projects\CompressionServer\obj\Debug\net10.0\CompressionServer.dll
+D:\projects\CompressionServer\obj\Debug\net10.0\refint\CompressionServer.dll
+D:\projects\CompressionServer\obj\Debug\net10.0\CompressionServer.pdb
+D:\projects\CompressionServer\obj\Debug\net10.0\CompressionServer.genruntimeconfig.cache
+D:\projects\CompressionServer\obj\Debug\net10.0\ref\CompressionServer.dll
